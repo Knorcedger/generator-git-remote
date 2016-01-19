@@ -13,14 +13,14 @@
   },
   "homepage": "https://github.com/Knorcedger/generator-git-remote",
   "keywords": [
-    "add,",
-    "generator,",
-    "git,",
+    "add",
+    "generator",
+    "git",
     "origin",
-    "remote,",
-    "remoteUrl,",
-    "yeoman,",
-    "yeoman-generator,"
+    "remote",
+    "remoteUrl",
+    "yeoman",
+    "yeoman-generator"
   ],
   "license": "MIT",
   "main": "app/index.js",

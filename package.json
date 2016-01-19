@@ -1,0 +1,33 @@
+{
+  "name": "generator-git-remote",
+  "description": "A Yeoman generator to easily add your git remote url as origin",
+  "version": "1.0.0",
+  "author": "Knorcedger",
+  "bugs": "https://github.com/Knorcedger/generator-git-remote/issues",
+  "dependencies": {
+    "yeoman-generator": "^0.22.4"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-google": "^0.3.0"
+  },
+  "homepage": "https://github.com/Knorcedger/generator-git-remote",
+  "keywords": [
+    "add,",
+    "generator,",
+    "git,",
+    "origin",
+    "remote,",
+    "remoteUrl,",
+    "yeoman,",
+    "yeoman-generator,"
+  ],
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": {
+    "url": "https://github.com/Knorcedger/generator-git-remote"
+  },
+  "scripts": {
+    "test": "eslint app"
+  }
+}
